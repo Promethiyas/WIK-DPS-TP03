@@ -15,3 +15,8 @@ Entrez
 ```bash
 docker-compose up 
 ```
+Et `http://localhost:8080/ping`
+
+### Hostname
+
+En allant sur ***/ping*** vous verrez apparaitre dans votre shell ***Hostname is :- xxxxxxxx***
